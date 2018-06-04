@@ -6,7 +6,7 @@ public class Task5_6 {
         boolean check = false;
         int x;
 
-        while (check == false){
+        while (!check){
 
             System.out.println("Podaj liczbę");
             x = input.nextInt();
